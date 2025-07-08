@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <report>
+              <files>53</files>
+              <directories>7</directories>
+              <totalSize>146249999</totalSize>
+              <extensions>    <extension name=".appxbundle" count="2"/>
+    <extension name=".xml" count="2"/>
+    <extension name=".txt" count="2"/>
+    <extension name=".appx" count="24"/>
+    <extension name=".provxml" count="2"/>
+    <extension name=".dll" count="17"/>
+    <extension name=".exe" count="4"/></extensions>
+            </report>
